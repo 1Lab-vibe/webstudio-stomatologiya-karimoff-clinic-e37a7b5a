@@ -1,2 +1,3 @@
-# webstudio-stomatologiya-karimoff-clinic-e37a7b5a
-Web Studio landing for Стоматология Karimoff Clinic
+# Welcome to your Lovable project
+
+TODO: Document your project here
